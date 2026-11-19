@@ -1,4 +1,4 @@
-![Wormhole-Lab cover](assets/cover.png)
+![Wormhole-Lab cover](Wormhole-Lab%20cover%20%281%29.png)
 
 # Wormhole-Lab 🌀🌌
 
